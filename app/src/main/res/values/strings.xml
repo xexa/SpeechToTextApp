@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpeechToTextApp</string>
+    <string name="text_here">Text here…</string>
+</resources>
